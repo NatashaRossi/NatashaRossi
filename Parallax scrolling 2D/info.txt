@@ -1,0 +1,2 @@
+add the backgroug script to the object holding all of the BG objects(parent); parallax layer to all the objects that will be animated (not including the parent); 
+and camera to the main camera. 
